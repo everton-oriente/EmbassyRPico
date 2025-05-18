@@ -1,0 +1,6 @@
+[package]
+name = "mon_temp_light_hum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
